@@ -4,8 +4,7 @@ A matrix bot to retrieve pictures of cats for HTTP status codes
 # Usage
 
 1. Invite bot to a private room
-2. Send a message defined in the list
-3. Get a response
+2. Send a message `!httpcat [HTTP STATUS CODE]` to get a response
 
 # Building your own
 
